@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result
+END
+Plan.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result/Plan.pm
+END
+Bailout.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result/Bailout.pm
+END
+Test.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result/Test.pm
+END
+Unknown.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result/Unknown.pm
+END
+Comment.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result/Comment.pm
+END
+YAML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result/YAML.pm
+END
+Version.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result/Version.pm
+END
+Pragma.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Result/Pragma.pm
+END

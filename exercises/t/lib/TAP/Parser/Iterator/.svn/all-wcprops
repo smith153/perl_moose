@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Iterator
+END
+Array.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Iterator/Array.pm
+END
+Process.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Iterator/Process.pm
+END
+Stream.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/TAP/Parser/Iterator/Stream.pm
+END

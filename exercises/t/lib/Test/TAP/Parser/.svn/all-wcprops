@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser
+END
+Grammar.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/Grammar.pm
+END
+ResultFactory.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/ResultFactory.pm
+END
+Iterator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/Iterator.pm
+END
+Multiplexer.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/Multiplexer.pm
+END
+Result.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/Result.pm
+END
+Scheduler.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/Scheduler.pm
+END
+Source.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/Source.pm
+END
+Utils.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/Utils.pm
+END
+IteratorFactory.pm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/IteratorFactory.pm
+END
+Aggregator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Parser/Aggregator.pm
+END

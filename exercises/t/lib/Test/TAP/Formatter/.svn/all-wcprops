@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Formatter
+END
+Base.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Formatter/Base.pm
+END
+Color.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Formatter/Color.pm
+END
+File.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Formatter/File.pm
+END
+Console.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Formatter/Console.pm
+END
+Session.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/big_repo/!svn/ver/2/moose/exercises/t/lib/Test/TAP/Formatter/Session.pm
+END
